@@ -1,6 +1,6 @@
 Pierwsza linia master
 Druga linia master
-Trzecia linia jest ciepło
+Trzecia linia jest dobra pogoda
 
 Dopisuję to w gałęzi develop
 Develop ciąg dalszy, lalala
