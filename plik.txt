@@ -1,4 +1,4 @@
-Pierwsza linia master
+Pierwszy wiersz poprawiany w master
 Druga linia master
 Trzecia linia jest dobra pogoda
 
