@@ -1,5 +1,5 @@
-Pierwsza linia
-Druga linia
+Pierwsza linia master
+Druga linia master
 Trzecia linia
 
 Dopisuję to w gałęzi develop
