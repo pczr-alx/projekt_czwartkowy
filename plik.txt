@@ -1,6 +1,6 @@
 Pierwsza linia
 Druga linia
-Trzecia linia
+Trzecia linia zimno
 
 Dopisuję to w gałęzi develop
 Develop ciąg dalszy, lalala
