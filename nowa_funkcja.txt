@@ -1,2 +1,3 @@
 funkcja matematyczna
 x = y * z
+return x
