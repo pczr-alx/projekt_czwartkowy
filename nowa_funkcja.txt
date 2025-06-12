@@ -1,3 +1,4 @@
 def funkcja_matematyczna(y, z):
+	'''Funkcja odejmuje i potęguje'''
 	x = y - z
 	return x*x
