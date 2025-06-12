@@ -4,3 +4,4 @@ Trzecia linia jest dobra pogoda
 
 Dopisuję to w gałęzi develop
 Develop ciąg dalszy, LELELELELE (master)
+Trwają prace nad funkcją

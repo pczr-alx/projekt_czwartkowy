@@ -1,1 +1,2 @@
 funkcja matematyczna
+x = y * z
